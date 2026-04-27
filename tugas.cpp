@@ -45,3 +45,6 @@ void tampilkanKeliling()(LayangLayang l, BelahKetupat b)
 int main() {
     LayangLayang ObjectLayang;
     BelahKetupat ObjectBelah;
+
+    ObjectLayang.inputData();
+    ObjectBelah.inputData();
