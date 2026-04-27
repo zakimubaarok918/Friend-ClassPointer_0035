@@ -16,3 +16,7 @@ private:
 
     friend void tampilkanKeliling(LayangLayang l, BelahKetupat b);
 };
+
+class BelahKetupat {
+private:
+    double d1, d2, s;
