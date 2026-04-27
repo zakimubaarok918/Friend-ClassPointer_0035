@@ -27,3 +27,8 @@ private:
         cout << "Masukkan Diagonal 1: "; cin >> d1;
         cout << "Masukkan Diagonal 2: "; cin >> d2;
         cout << "Masukkan Panjang Sisi: "; cin >> s;
+        }    
+
+    double hitungLuas() {
+        return 0.5 * d1 * d2;
+    }
