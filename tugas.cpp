@@ -35,3 +35,5 @@ private:
 
     friend void tampilkanKeliling(LayangLayang l, BelahKetupat b);
 };
+
+void tampilkanKeliling()(LayangLayang l, BelahKetupat b)
